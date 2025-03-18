@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MOD5\\ParameterNGeneric\\ParameterNGeneric.csproj",
-      "projectName": "ParameterNGeneric",
-      "projectPath": "D:\\MOD5\\ParameterNGeneric\\ParameterNGeneric.csproj",
+      "projectUniqueName": "D:\\MOD5\\ParameterNGeneric\\Modul5_103022300010.csproj",
+      "projectName": "Modul5_103022300010",
+      "projectPath": "D:\\MOD5\\ParameterNGeneric\\Modul5_103022300010.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
       "outputPath": "D:\\MOD5\\ParameterNGeneric\\obj\\",
       "projectStyle": "PackageReference",
